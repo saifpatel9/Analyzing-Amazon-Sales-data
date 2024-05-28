@@ -9,13 +9,13 @@ Perform ETL (Extract-Transform-Load) on an Amazon dataset to analyze the sales t
 # Technology:
 Data Science
 
-#Domain:
+# Domain:
 E-commerce
 
-#Programming Language:
+# Programming Language:
 Python
 
-#Tools:
+# Tools:
 VS Code, Jupyter Notebook, Tableau, MS Excel
 
 
